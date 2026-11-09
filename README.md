@@ -1,109 +1,102 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020804,35:052e16,70:14532d,100:16a34a&height=230&section=header&text=ahmi&fontSize=90&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20DIGITAL%20CREATOR&descSize=14&descColor=bbf7d0&descAlignY=60" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+environment...;%3E+Turning+ideas+into+digital+products...;%3E+Building+modern+web+experiences...;%3E+System+online.+Ready+to+create." /><br/><a href="mailto:ahmet.global@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,25:0c2340,55:064e6b,80:065f46,100:020817&height=240&section=header&text=ahmi&fontSize=100&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%20%2F%2F%20%20DIGITAL%20CREATOR&descSize=14&descColor=86efac&descAlignY=61" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=4ADE80&center=true&vCenter=true&width=600&lines=%3E+Accessing+the+digital+world...;%3E+Ideas+into+code.+Code+into+reality.;%3E+Building+modern+digital+experiences.;%3E+Always+creating.+Always+evolving." /><br/><a href="mailto:ahmet.global@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ahmet.global%40gmail.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/ahmet0013">
-<img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/DISCORD-ahmet0013-2563EB?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://github.com/ahmi-digital">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-0F172A?style=for-the-badge&logo=github&logoColor=4ADE80" />
 </a><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="85%" /></div>"01" // WHOAMI
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,50:06b6d4,100:3b82f6&height=3&section=header" width="85%" /></div>"01" / About Me
 
-const ahmi = {
-  role: "Full-Stack Developer",
-  languages: ["Turkish", "English"],
+<div align="center">Engineering meets creativity.
 
-  frontend: ["HTML", "CSS", "TypeScript", "React", "Next.js"],
+</div>I'm a developer passionate about creating modern digital products, building intuitive interfaces, and turning ambitious ideas into functional applications.
 
-  backend: ["Python", "Supabase"],
+I enjoy exploring the intersection of frontend engineering, backend development, and creative problem-solving.
 
-  database: ["SQL", "PostgreSQL"],
+My approach: thoughtful design, clean code, and continuous improvement.
 
-  interests: [
-    "Web Development",
-    "UI/UX Engineering",
-    "Software Architecture",
-    "Digital Products"
-  ],
+"02" / Tech Stack
 
-  philosophy: "Build with purpose."
-};
+◈ Frontend Development
 
-I enjoy building modern digital products that combine functionality, performance, and thoughtful design.
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs&theme=dark" /></div><sub>Modern interfaces · Responsive design · Component-based development</sub>
 
-My focus is on creating clean interfaces, reliable backend systems, and meaningful experiences through technology.
+◈ Backend Development
 
-"02" // TECH STACK
+<div align="center"><img src="https://skillicons.dev/icons?i=python,supabase&theme=dark" /></div><sub>Backend logic · API integrations · Authentication · Application services</sub>
 
-◇ Frontend Development
+◈ Database & Storage
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs&theme=dark" />
-</div><sub>Responsive interfaces · Component architecture · Modern web applications</sub>
+<div align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /></div><sub>SQL · PostgreSQL · Data modeling · Database management</sub>
 
-◇ Backend Development
+◈ Development Tools
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,supabase&theme=dark" />
-</div><sub>Backend logic · API integrations · Authentication · Server-side development</sub>
-
-◇ Database & Storage
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-</div><sub>SQL · PostgreSQL · Relational database design</sub>
-
-◇ Development Tools
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
-</div><sub>Version control · Development environments · Project workflows</sub>
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" /></div><sub>Version control · Development environments · Project workflows</sub>
 
 ---
 
-"03" // GITHUB ANALYTICS
+"03" / GitHub Analytics
 
 <div align="center"><a href="https://github.com/ahmi-digital">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmi-digital&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=E5E7EB&include_all_commits=true" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmi-digital&show_icons=true&hide_border=true&bg_color=0B1628&title_color=4ADE80&icon_color=22D3EE&text_color=E2E8F0&include_all_commits=true" width="95%" />
 </a><br/><br/>
 
 <a href="https://github.com/ahmi-digital">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmi-digital&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E5E7EB" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmi-digital&layout=compact&hide_border=true&bg_color=0B1628&title_color=4ADE80&text_color=E2E8F0" width="75%" />
 </a><br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmi-digital&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=E5E7EB&dates=9CA3AF" width="95%" /></div>"04" // DEVELOPMENT PHILOSOPHY
+<img src="https://streak-stats.demolab.com?user=ahmi-digital&hide_border=true&background=0B1628&ring=4ADE80&fire=22D3EE&currStreakLabel=4ADE80&sideLabels=E2E8F0&dates=94A3B8" width="95%" /></div>"04" / My Philosophy
 
-Engineering| Creativity
-Clean architecture| Minimal interfaces
-Maintainable code| Smooth interactions
-Scalable systems| Thoughtful UX
-Performance| Visual consistency
+<div align="center"><table>
+<tr>
+<td align="center" width="50%">⚡ Engineering
 
-"05" // CURRENT FOCUS
+Clean architecture
+
+Maintainable code
+
+Performance-focused solutions
+
+</td>
+<td align="center" width="50%">◈ Creativity
+
+Minimal interfaces
+
+Smooth interactions
+
+Thoughtful experiences
+
+</td>
+</tr>
+</table></div>"05" / Current Focus
 
 $ ahmi --status
 
-[+] Exploring modern web technologies
-[+] Building full-stack applications
-[+] Improving software architecture
+[+] Exploring modern technologies
+[+] Building digital products
+[+] Improving development workflows
 [+] Experimenting with creative interfaces
-[+] Learning something new every day
+[+] Learning and evolving
 
-STATUS: BUILDING
+> STATUS: BUILDING SOMETHING GREAT
 
-"06" // LET'S CONNECT
+"06" / Connect With Me
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+Have+an+interesting+project%3F;%3E+Let's+build+something+great." /><br/><br/>
+<div align="center">Let's turn ideas into reality.
 
-<a href="mailto:ahmet.global@gmail.com">
-<img src="https://img.shields.io/badge/ahmet.global%40gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
+Open to interesting conversations, creative ideas, and collaborations.
+
+<br/><a href="mailto:ahmet.global@gmail.com">
+<img src="https://img.shields.io/badge/ahmet.global%40gmail.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white" />
 </a><br/><br/>
 
 <a href="https://discord.com/users/ahmet0013">
-<img src="https://img.shields.io/badge/Discord-Connect-111827?style=for-the-badge&logo=discord&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Discord-ahmet0013-2563EB?style=for-the-badge&logo=discord&logoColor=white" />
 </a><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:052e16,100:020804&height=130&section=footer" width="100%" /><sub>© 2026 ahmi · Designed in the terminal. Built for the future.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,40:064e6b,75:065f46,100:020817&height=150&section=footer" width="100%" /><sub>© 2026 ahmi · Built with curiosity and creativity.</sub>
 
 </div>
